@@ -15,12 +15,12 @@
 
 # 🧰 Hard Skills
 
-- Languages: C, C++, C# (.NET), Java, JavaScript, Dart
-- Web: HTML, CSS, JavaScript, TypeScript, ReactJS, ExpressJS
-- Mobile: Flutter (manual class & logic-first approach)
+- **Languages: C, C++, C# (.NET), Java, JavaScript, Dart**
+- **Web: HTML, CSS, JavaScript, TypeScript, ReactJS, ExpressJS**
+- **Mobile: Flutter (manual class & logic-first approach)**
 - Backend/Cloud: Firebase (Auth, Firestore, Realtime DB), SQL Express, Oracle
 - CS Core: OOP, Algorithms, Data Structures
-- Tools: Git, GitHub, Postman
+- **Tools: Git, GitHub, Postman**
 
 # 🤝 Soft Skills
 
