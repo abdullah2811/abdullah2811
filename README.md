@@ -4,7 +4,7 @@
 
 # 🎓 Education
 
-** B.Sc. in Computer Science & Engineering **
+## B.Sc. in Computer Science & Engineering
 
 # 🚀 Projects
 
